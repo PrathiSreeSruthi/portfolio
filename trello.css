@@ -1,0 +1,401 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+
+.row{
+    display:flex;
+    flex-wrap:wrap;
+    
+}
+.t-1{
+    background-color: rgb(28,115,193);
+    height:720px
+}
+.title-logo{
+    width:130px;
+    height:75px;
+    margin:0 20px;
+}
+.header-nav{
+    margin-top:25px;
+    margin-left:920px
+}
+
+.a1{
+color:white;
+text-decoration:none;
+font-size:20px;
+}
+.a2{
+    color:rgb(28,115,193);
+    text-decoration:none;
+    background-color:white;
+    margin:0 10px;
+    font-size:20px;
+    border-radius:3px;
+    padding:8px
+}
+.title-text{
+    width:45%;
+    margin:70px 10px 0 70px ;
+    
+    color:white;
+    font-size:25px;
+    font-weight:50px
+}
+.c{
+    margin:0 0 0 70px;
+    width:300px;
+    padding:10px 20px;
+    font-size:20px;
+    margin-top:20px;
+    border-radius:8px
+}
+.title-text p{
+    font-size:28px
+}
+.title-img{
+    width:45%;
+    margin:30px 20px 0px 0;
+    
+}
+.b{
+    width:540px;
+    height:450px;
+    
+    margin-top:-20px
+}
+
+
+.a3{
+   background-color:rgb(97,189,79);
+    text-decoration:none;
+    color:white;
+    margin:  0 10px;
+    font-size:25px;
+    border-radius:8px;
+    padding:12px 30px;
+}
+.anchor{
+    margin-top:32px;   
+}
+
+.t-2{
+    margin-top:50px
+}
+.box1 img{
+    width:620px;
+    height:420px;
+    margin-right:40px;
+    
+    
+}
+.t-2-txt{
+    width:35%;
+    margin:0 50px 0 70px;
+    
+}
+.t-2-txt h1{
+    font-size:35px;
+    font-weight:100px;
+    margin-top:100px
+}
+.t-2-txt p{
+    font-size:20px;
+    font-weight:30px;
+    
+    margin-top:-20px;
+    width:400px
+}
+.a4{
+    background-color:rgb(109,142,162);
+    text-decoration:none;
+    color:white;
+
+    font-size:20px;
+    border-radius:8px;
+    padding:15px;
+}
+.fa-arrow-right{
+    font-size:15px;
+    margin:10px;
+    
+}
+.t-3{
+    margin-top:80px
+}
+.box2{
+    width:550px;
+    height:600px;
+    margin-left:60px; 
+}
+.box2 img{
+    width:450px;
+    height:620px;
+    margin-top:-50px
+}
+.t-3-txt{
+    width:45%;
+    margin:70px 30px 0 -70px;
+    
+}
+.t-3-txt h1{
+    font-size:35px;
+    font-weight:100px;
+    margin-top:100px
+}
+.t-3-txt p{
+    font-size:20px;
+    margin-top:-20px;
+}
+.t-2{
+    margin-top:50px
+}
+.box4{
+    width:25%;
+    
+}
+.box4 img{
+    width:450px;
+    height:340px;
+    margin-right:40px;
+
+}
+.t-4-txt{
+    width:50%;
+    margin:-40px 50px 0 70px;
+    
+}
+.t-4-txt h1{
+    font-size:30px;
+    font-weight:100px;
+    margin-top:50px
+}
+.t-4-txt p{
+    font-size:20px;
+    font-weight:30px;
+    line-height:25px;
+    margin-top:20px;
+    width:550px;
+    word-spacing:10px;
+}
+li{
+    line-height:30px;
+    font-size:22px
+}
+.t-5{
+    margin-top:60px
+}
+.t-5-img{
+    position:relative;
+}
+.t-5 h2{
+text-align:center;
+font-size:40px
+}
+.t-5 p{
+    
+font-size:20px;
+width:500px;
+margin:-20px auto;
+margin-bottom:20px;
+text-align:center
+}
+.img4{
+    width:865px;
+    height:500px;
+    margin:0 190px;
+    border-radius:20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.384);
+}
+.img5{
+    position:absolute;
+    z-index:2;
+    top:8%;
+    left:40%;
+    width:180px;
+    height:180px;
+    transform:rotate(20deg);
+    
+}
+.img8{
+    position:absolute;
+    z-index:1;
+    top:19%;
+    left:38%;
+    width:40px  
+}
+.def{
+    background-color:rgb(176,194,205);
+    color:white;
+    z-index:3;
+    font-size:20px;
+    padding:10px 20px;
+    width:150px;
+    border-radius:10px;
+    top:0.5%;
+    position:absolute;
+    left:17%
+
+}
+.abc{
+    background-color:rgb(176,194,205);
+    color:white;
+    z-index:4;
+    font-size:20px;
+    padding:10px 20px;
+    width:200px;
+    border-radius:10px;
+    top:10%;
+    position:absolute;
+    left:17%
+
+}
+.img7{
+    position:absolute;
+    z-index:5;
+    top:5%;
+    left:33%;
+    width:40px  
+}
+.img6{
+    position:absolute;
+    z-index:6;
+    top:5%;
+    left:36%;
+    width:40px  
+}
+.jkl{
+    background-color:rgb(40,47,66);
+    z-index:7;
+    position:absolute;
+    top:77%;
+    color:white;
+    padding:20px;
+    left:15%;
+    width:828px;
+    text-align:center;
+    height:70px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.t-6 h3{
+    text-align:center;
+    font-size:32px
+}
+.t-6 .y{
+        
+    font-size:20px;
+    width:500px;
+    margin:-20px auto;
+    margin-bottom:20px;
+    text-align:center
+}
+ .t-6{
+     margin-top:50px
+ }  
+.box-a{
+    width:25%;
+    margin:20px auto;
+    
+    padding:20px;
+    text-align:center;
+    font-size:25px
+}
+.box-a p{
+    font-size:20px
+}
+.box-a img{
+    width:250px;
+    height:200px;
+
+}
+.ab{
+    background-color:rgb(109,142,162);
+    color:white; 
+    font-size:20px;
+    padding:10px 20px;
+    width:200px;
+    border-radius:10px;
+    text-decoration:none;
+}
+.de{
+ width:300px;
+ height:70px;
+ 
+}
+.de img{
+    width:130px;
+    height:50px
+}
+.box7{
+    background-image: linear-gradient(rgb(68,85,141),rgb(104,100,140));
+    width:1100px;
+    height:500px;
+    margin:auto;
+    border-radius:10px;
+    color:white;
+    text-align:center;
+    
+}
+.box7 h2{
+    padding:50px;
+    font-size:35px
+}
+.box7 p{
+    margin-top:-70px;
+    font-size:25px
+}
+.fa-long-arrow-right{
+    padding :0 10px
+}
+.box7 img{
+    width:150px;
+    height:70px;
+    margin:0 50px;
+    margin-top:30px
+}
+.ac{
+    background-color:rgb(235,236,240);
+    color:black; 
+    font-size:20px;
+    padding:10px 20px;
+    width:200px;
+    border-radius:10px;
+    text-decoration:none;
+    
+}
+.yy{
+    margin-top:50px;
+}
+.aa{
+    margin-left:550px;
+}
+.bb{
+    color:rgb(104, 102, 102);
+    margin:  0 10px;
+    font-size:15px;
+    
+    padding:10px 0;
+    width:150px
+}
+.footer-nav{
+    margin:30px 200px
+}
+.footer-nav a{
+    margin:10px;
+    color:rgb(104, 102, 102)
+
+}
+.box8 img{
+    margin:0px 550px;
+    margin-top:-10px;
+    width:150px
+}
+.box9{
+    text-align:center;
+    margin-top:20px
+}
+.t-8 {
+    margin-top:50px
+}
